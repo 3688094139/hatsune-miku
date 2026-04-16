@@ -65,7 +65,7 @@ Create your line art masterpieces in four easy steps, all within 30 seconds!
 2.  **Select AI Model (选择适合模型):** Choose the model best suited for your theme (e.g., Nano for cartoons, Qwen for animals).
 Model: Nano Banana Pro (最火), Flux-Kontext (经典), etc.
 3.  **Upload Reference (Optional):** Click upload to help the AI better understand your specific line art needs
-4.  **Generate & Download (生成并下载):** Confirm settings, click "Generate Line Art", and download your unique, high-definition coloring page.
+4.  **Generate & Download (生成并下载):** Confirm settings, click "Generate Line Art", and download your unique, high-definition coloring page
 
 **🌟 Start Creating Now: [Children's Line Art Generator](https://www.sipingseo.com/zh/line-art-generator/children-line-art-generator)**
 

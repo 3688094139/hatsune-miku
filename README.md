@@ -28,7 +28,7 @@ By using simple text descriptions, our advanced AI model intelligently renders c
 
 ## 🎨 Style Gallery | 风格案例展示
 
-Explore the diverse styles and themes possible with our generator.
+Explore the diverse styles and themes possible with our generator
 
 ### Cartoon Simple Drawing (卡通简笔画)
 

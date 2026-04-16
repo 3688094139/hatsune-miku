@@ -60,7 +60,7 @@ From princesses to astronauts, create unique character coloring pages.
 
 Create your line art masterpieces in four easy steps, all within 30 seconds!
 
-1.  **Describe Your Line Art (描述线稿构想):** Provide a detailed prompt including the subject, line style, complexity, and age group.
+1.  **Describe Your Line Art (描述线稿构想):** Provide a detailed prompt including the subject, line style, complexity, and age group
     *Example: "一只可爱的卡通小兔子线稿，线条简洁流畅，适合5-8岁儿童涂色..."*
 2.  **Select AI Model (选择适合模型):** Choose the model best suited for your theme (e.g., Nano for cartoons, Qwen for animals).
 Model: Nano Banana Pro (最火), Flux-Kontext (经典), etc.

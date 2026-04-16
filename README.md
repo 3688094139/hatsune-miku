@@ -5,7 +5,7 @@
 [![Website Status](https://img.shields.io/website-up-down-green-red/https/www.sipingseo.com.svg)](https://www.sipingseo.com/zh/line-art-generator/children-line-art-generator)
 [![License: Full Commercial](https://img.shields.io/badge/License-Full%20Commercial%20Use-brightgreen.svg)](https://www.sipingseo.com/zh/line-art-generator/children-line-art-generator)
 
-A powerful, free, online AI tool to instantly create unique, high-quality line art for children's coloring and educational purposes from text descriptions.
+A powerful, free, online AI tool to instantly create unique, high-quality line art for children's coloring and educational purposes from text descriptions
 
 **👉 [Generate Children's Line Art Online For Free | 免费在线生成儿童画线稿](https://www.sipingseo.com/zh/line-art-generator/children-line-art-generator)**
 

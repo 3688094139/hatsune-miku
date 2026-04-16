@@ -77,7 +77,7 @@ Model: Nano Banana Pro (最火), Flux-Kontext (经典), etc.
 Yes, we offer a completely free children's line art generation service with no downloads or registration required.
 
 **Can I use the generated line art commercially?**
-Yes, all generated line art is granted full commercial rights, making it safe for educational publications, online courses, commercial advertising, and printing.
+Yes, all generated line art is granted full commercial rights, making it safe for educational publications, online courses, commercial advertising, and printing
 
 **How can I get the best line art results?**
 Provide detailed line art descriptions: the subject matter, line thickness, desired complexity, target age group, and composition style. The more specific, the better the AI can meet your expectations.

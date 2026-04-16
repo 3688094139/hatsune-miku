@@ -15,7 +15,7 @@ A powerful, free, online AI tool to instantly create unique, high-quality line a
 
 The **Children's Line Art Generator** by SPAI Line Art Assistant (SPAI 线稿助理) and HANYUAI Painting Assistant (HANYUAI 绘画助理) empowers parents, teachers, educational institutions, and children's book publishers to easily create professional-grade coloring pages
 
-By using simple text descriptions, our advanced AI model intelligently renders clear, bold, and easy-to-color line drawings, significantly reducing the time and technical barriers for line art creation.
+By using simple text descriptions, our advanced AI model intelligently renders clear, bold, and easy-to-color line drawings, significantly reducing the time and technical barriers for line art creation
 
 ## 🚀 Key Features | 核心功能
 

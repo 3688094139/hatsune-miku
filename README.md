@@ -21,7 +21,7 @@ By using simple text descriptions, our advanced AI model intelligently renders c
 
 * **Text-to-Line Art Generation (文字描述生成线稿):** Just describe your idea—animal, person, vehicle, festival—and watch the AI bring it to life in line form
 * **Multiple Drawing Styles (多种绘画风格):** Support for diverse styles including Cartoon Simple Drawing (卡通简笔画), Fine Illustration (精细插画), Animal Themes (动物主题), and more
-* **Highly Customizable (自定义线稿特征):** Define line thickness, complexity, and age-appropriateness through your prompts.
+* **Highly Customizable (自定义线稿特征):** Define line thickness, complexity, and age-appropriateness through your prompts
 * **100% Free & No Registration (完全免费，无需注册):** Start creating unique coloring pages instantly directly from your web browser.
 * **Full Commercial Rights (完全商用授权):** Generated line art can be safely used for children's education, publishing, commercial advertising, and online courses.
 * **High-Quality Output:** Lines are clear, smooth, and designed with optimal spacing for a superior coloring experience
